@@ -1,0 +1,158 @@
+PACCHETTO DI FIGURINE
+
+
+PRENDERE I PACCHETTI DI FIGURINE
+
+PRENDERE L'ALBUM
+  SE album =/= pacchetto figurine cambiare album
+  ALTRIMENTI album=pacchetto di figurine proseguire
+
+APRIRE L'ALBUM ALLA PRIMA PAGINA
+  SE ci sono pacchetti di figurine staccarli delicatamente e aggiungerli al mucchio degli altri pacchetti
+  ALTRIMENTI lascia l'album aperto alla prima pagina
+
+PRENDERE UN PACCHETTO FINCHE NON ESAURISCONO
+  
+  APRIRE IL PACCHETTO DELICATAMENTE DALLA CIMA FACENDO ATTENZIONE A NON STRAPPARE LE FIGURINE
+  
+    ESTRARRE LE FIGURINE DALLA CONFEZIONE
+
+      DISPORRE LE FIGURINE IN ORDINE NUMERICO CRESCENTE
+        SE numero=numero prendere rimuovere
+           una carta O l'altra
+
+           disporla in un mazzo a parte (z)
+
+        ALTRIMENTI proseguire
+
+      SFOGLIARE DALLA PRIMA PAGINA FINCHè NON TROVI IL NUMERO CORRISPONDENTE ALLA PRIMA CARTA
+        SE è già presente una figurina
+          
+           disporre la carta in un mazzo a parte (z)
+
+        ALTRIMENTI rimuovere delicatamente la pellicola dal retro della figurina
+
+                   incollare la figurina dall'album
+                      SE width>height del rettangolo che contiene il numero disporla in orizzontale
+                      ALTRIMENTI disporla in verticale
+
+      PROSEGUIRE FINCHè NON SONO ESAUIRITE TUTTE LE CARTE DEL PACCHETTO
+
+      TORNARE ALLA PRIMA PAGINA
+
+PRENDERE UN FOGLIO DI CARTA
+
+PRNDERE UNA PENNA
+  SE colore =/= blu cambiare penna
+  ALTRIMENTI proseguire
+
+
+SFOGLIARE L'ALBUM E SCRIVERE SUL FOGLIO DI CARTA TUTTI I NUMERI ANCORA VUOTI NELL'ALBUM
+
+CHIUDERE L'ALBUM
+
+PRENDERE IL MAZZO A PARTE (z)
+
+DISPORRE LE FIGURINE IN ORDINE NUMERICO CRESCENTE
+
+AVVOLGERE LE FIGURINE CON UN ELASTICO
+
+DISPORRE LE CARTE E IL FOGLIO NELLO ZAINO
+   SE è chiuso aprilo
+   ALTRIEMNTI proseguire
+
+CHIUDERE LO ZAINO
+
+
+       |_-_-_-_-ViaGGGio SPaZi0 teMp°_-_-_-_|
+
+      |- SABATO A RICREAZIONE CON GLI AMICI -|
+
+PRENDERE IL MAZZO DI FIGURINE DALLO ZAINO
+  SE lo zaino è chiuso aprirlo
+  ALTRIMENTI cercarare
+ 	        SE non lo trovi sposta gli elementi all'inerno
+              ALTRIMENTI continua a cercare togliendo i libri appoggiandoli sul banco
+            		    SE trovi il mazzo di carte
+               			  ridisponi i libri dentro lo zaino
+
+             		    ALTRIMENTI continua a cercare
+    
+RIMUOVERE L'ELASTICO DAL MAZZO
+
+POSARE L'ELASTICO SUL BANCO
+
+MOSTRARE LE FIGURINE SFOGLIANDOLE A PARTIRE DALLA PRIMA
+  SE qualcuno è interessato ad una figurina
+     scabiarla
+     O
+     venderla
+
+  ALTRIMENTI continuare a sfogliare fino alla fine del mazzo
+
+AVVOLGERE LE FIGURINE CON L'ELASTICO E REDIISPORLE NELLO ZAINO
+
+PRENDERE IL FOGLIO DI CARTA CON SU SCRITTI I NUMERI E UNA PENNA
+
+DOMANDARE AD UN AMICO ALLA VOLTA CHE COLLEZZIONA ED HA LE FIGURINE SE HA QUEI NUMERI
+  SE ha un numero o più numeri
+
+        prendere il mazzo di figurine dallo zaino
+            SE lo zaino è chiuso aprirlo
+            ALTRIMENTI cercarare
+ 	                 SE non lo trova spostare gli elementi all'inerno
+                       ALTRIMENTI continuare a cercare togliendo i libri appoggiandoli sul banco
+            		           SE trova il mazzo di carte
+
+               			      ridisporre i libri dentro lo zaino
+
+             		           ALTRIMENTI continuare a cercare
+    
+        rimuovere l'elastico dal mazzo
+
+        posare l'elastico sul banco
+
+        mostrare le figurine sfogliandole a partire dalla prima
+              SE gli interessa una tua figurina
+ 
+                 proporre lo scambio 1/1
+
+                    SE accetta fare lo scambio
+
+                       fare un frego sul foglio al numero corrispondente della carta appena presa
+
+             
+               ALTRIMENTI domandare quanto voglionno per la figurina O figurine
+                         SE l'offerta > di quanto sei disposto a pagare rifiutare
+                         ALTRIMENTI offerta <= accettare lo scambio
+                                   SE i soldi che hai sono sufficenti effettuare il pagamento
+
+                                       fare un frego sul foglio al numero corrispondente della carta appena presa
+   
+                                    ALTRIMENTI rifiutare
+          
+
+  ALRIMENTI andare dall'amico successivo
+
+DISPORRE IL FOGLIO E LA PENNA E LE CARTE DEL MAZZO (z) NELLO ZAINO
+  SE hai scambiato qualche figurina
+     disporre le figurine nuove in tasca del giubbotto
+     O
+     nella tasca frontale dello zaino
+
+  ALTRIMENTI proseguire
+
+
+CHIUDERE LO ZAINO
+
+
+
+
+        
+ 
+     
+      
+
+
+
+     
